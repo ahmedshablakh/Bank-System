@@ -1,10 +1,10 @@
 ﻿  BankSystem.cpp
-C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(43,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(60,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(197,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(328,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(376,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(40,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(45,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(57,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(194,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(325,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsString.h(373,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
 C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
 C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsUser.h(199,5): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
 C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsUser.h(26,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
@@ -28,6 +28,6 @@ C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsCurrency.h(27,17): warnin
 C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsBankClient.h(376): warning C4715: 'clsBankClient::Save': not all control paths return a value
-C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
 C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsUser.h(360): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\aboar\ahmedshablakh\Bank-System\BankSystem\clsBankClient.h(438): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
   BankSystem.vcxproj -> C:\Users\aboar\ahmedshablakh\Bank-System\x64\Debug\BankSystem.exe
