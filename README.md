@@ -56,3 +56,8 @@ Submit a Pull Request for any improvements you'd like to add.
 # Author
 This project was developed by [AHMAD SHABLAKH].
 Contact: [ahmadshablakh.swi@gmail.com]
+
+# Login to the system
+Username : [admin],
+Password : [1234]
+
